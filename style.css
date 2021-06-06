@@ -1,0 +1,16 @@
+body{
+height: 95vh;
+width: 95;
+display: flex ;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+color: rgb(21, 255, 0);
+background-color: black;
+
+}
+
+canvas {
+    border: 1px solid;
+    border-color: rgb(231, 59, 7);
+}
